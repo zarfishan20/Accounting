@@ -1,7 +1,7 @@
 {
   "name": "accounting",
   "version": "0.1.0",
-  "homepage": "https://github.com/zarfishan20/accounting",
+  "homepage": "https://github.com/zarfishan20/Accounting",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
